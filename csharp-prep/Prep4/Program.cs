@@ -54,17 +54,7 @@ class Program
             }
         }
 
-        Console.WriteLine($"The largest number is: {largestNumber}");
-        
-
-        
-
-        
-
-
-
-
-
+        Console.WriteLine($"The largest number is: {largestNumber}");    
 
     }
 }
