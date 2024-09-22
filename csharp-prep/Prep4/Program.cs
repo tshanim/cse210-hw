@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Enter a list of numbers, type 0 when finished.");
 
-        // List where the user numbers will added
+        // List where the user numbers will be added
         List<int> numbers = new List<int>();
         
         //Use of while loop to loop the user's number input process, 
