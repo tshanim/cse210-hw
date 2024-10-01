@@ -44,6 +44,6 @@ public class Fraction
     {
         // Notice that this is not stored as a member variable.
         // Is will be recomputed each time this is called.
-        return (double)_top / (double)_bottom;
+        return (double) _top / (double) _bottom;
     }
 }
