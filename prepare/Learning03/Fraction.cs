@@ -3,7 +3,7 @@ using System;
 // Create a Fraction class: Responsibility of this class is to hold fraction
 public class Fraction
 {
-    // The class has two attributes for the top and bottom numbers which are attributes are private
+    // The class has two attributes for the top and bottom numbers which are private
     private int _top;
     private int _bottom;
 
