@@ -7,7 +7,7 @@ namespace ScriptureMastery
         
         static void Main(string[] args)
         {
-            Scripture scripture = new Scripture("3 Nephi", 5, 13, "Behold, I am a disciple of Jesus Christ, th Son of God. I have been called of him to declare his word among his people, that they might have everlasting life. ");
+            Scripture scripture = new Scripture("1 Nephi", 3, 7, "I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them. ");
             Console.Clear();
             scripture.Display();
             Console.WriteLine("\nPress Enter to continue or type 'quit' to exit.");
